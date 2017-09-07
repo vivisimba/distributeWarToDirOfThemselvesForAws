@@ -1,0 +1,2 @@
+# distributeWarToDirOfThemselvesForAws
+distributeWarToDirOfThemselvesForAws
